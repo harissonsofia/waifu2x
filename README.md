@@ -6,7 +6,7 @@ Demo-Application can be found at http://waifu2x.udp.jp/ .
 
 ## Summary
 
-Click to see the slide show.Waifu2x high resolution images can be view and download at: iguestblog.com.
+Click to see the slide show.Waifu2x high resolution images can be view and download at:<a href="iguestblog.com"> here</a>
 
 ![slide](https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png)
 
